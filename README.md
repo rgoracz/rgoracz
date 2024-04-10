@@ -11,7 +11,7 @@
 - WebSockets / Server-Sent Events
 - PostgreSQL / MongoDB / Redis
 - Apache Kafka
-- GitHub Actons / Docker / Kubernetes / OpenShift
+- Git / GitHub Actons / Docker / Kubernetes / OpenShift
 
 ### In my free time, I love to:
 - 👨‍💻 Work on my hobby projects
