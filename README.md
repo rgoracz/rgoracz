@@ -19,7 +19,7 @@
 - 📙 [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 - 📘 [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software 2nd Edition](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X)
 
-### In my free time, I love to:
+### 😎 In my free time, I love to:
 - 👨‍💻 Work on my hobby projects
 - 🚌 Travel around
 - 🎤 Debate on political topics
