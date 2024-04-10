@@ -1,8 +1,8 @@
 ## Hey there! ✌️
 
-### I'm Roland, a Full-Stack Software Developer with DevOps knowledge with around 4 Years of (professional) Experience.
+### 🧙 I'm Roland, a Full-Stack Software Developer with DevOps knowledge with around 4 Years of (professional) Experience.
 
-### I have experience with:
+### 🧠 I have experience with:
 
 - TypeScript / JavaScript
 - Angular / React / Next.js / Redux
@@ -13,11 +13,11 @@
 - Apache Kafka
 - Git / GitHub Actons / Docker / Kubernetes / OpenShift
 
-### I've read the following books:
-- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-- [The Pragmatic Programmer: Your Journey To Mastery, 20th Anniversary Edition](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
-- [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
-- [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software 2nd Edition](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X)
+### 📚 I've read the following books:
+- 📗 [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- 📕 [The Pragmatic Programmer: Your Journey To Mastery, 20th Anniversary Edition](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
+- 📙 [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
+- 📘 [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software 2nd Edition](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X)
 
 ### In my free time, I love to:
 - 👨‍💻 Work on my hobby projects
