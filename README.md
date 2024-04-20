@@ -4,13 +4,24 @@
 
 ### 🧠 I have experience with:
 
+**Languages / Frameworks:**
+
 - TypeScript / JavaScript
 - Angular / React / Next.js / Redux
 - Node.js / NestJS / TypeORM / Express.js / Jest / Jasmine / SuperTest / fast-check
 - Java / Spring Boot / Spring WebFlux / JUnit 5 / Mockito
+
+**Messaging:**
+
 - WebSockets / Server-Sent Events
-- PostgreSQL / MongoDB / Redis
 - Apache Kafka
+
+**Databases:**
+
+- PostgreSQL / MongoDB / Redis
+
+**GitOps / DevOps:**
+
 - Git / GitHub Actons / Docker / Kubernetes / OpenShift
 
 ### 📚 I've read the following books:
