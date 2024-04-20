@@ -24,7 +24,7 @@
 
 - Git / GitHub Actons / Docker / Kubernetes / OpenShift
 
-### 📚 I've read the following books:
+### 📚 I possess the wisdom and knowledge of the following books:
 - 📗 [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - 📕 [The Pragmatic Programmer: Your Journey To Mastery, 20th Anniversary Edition](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
 - 📙 [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
