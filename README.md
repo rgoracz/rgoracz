@@ -29,6 +29,7 @@
 - 📕 [The Pragmatic Programmer: Your Journey To Mastery, 20th Anniversary Edition](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
 - 📙 [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 - 📘 [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software 2nd Edition](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X)
+- 📔 [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) (in progress)
 
 ### 😎 In my free time, I love to:
 - 👨‍💻 Work on my hobby projects
