@@ -35,6 +35,7 @@
 - 👨‍💻 Work on my hobby projects
 - 🚌 Travel around
 - 🎤 Debate on political topics
+- 🚀 Dedicate time to self-improve
 - 🎶 Enjoy my playlists (funky / tech / deep house, trance, disco, dance, retro, EDM, rock, pop)
   - 🎵 [Take a look at what do I listen to](https://www.last.fm/user/rgoracz)
 
