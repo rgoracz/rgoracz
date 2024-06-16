@@ -6,10 +6,10 @@
 
 **Languages / Frameworks:**
 
-- TypeScript / JavaScript
-- Angular / React / Next.js / Redux
+- **TypeScript** / JavaScript
+- **Angular** / React / Next.js / Redux
 - Node.js / NestJS / TypeORM / Express.js / Jest / Jasmine / SuperTest / fast-check
-- Java / Spring Boot / Spring WebFlux / JUnit 5 / Mockito
+- **Java** / **Spring Boot** / Spring WebFlux / JUnit 5 / Mockito
 
 **Messaging:**
 
@@ -22,7 +22,7 @@
 
 **GitOps / DevOps:**
 
-- Git / GitHub Actons / Docker / Kubernetes / OpenShift
+- **Git** / GitHub Actons / Docker / Kubernetes / OpenShift
 
 ### 📚 I possess the wisdom and knowledge of the following books:
 - 📗 [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) (read from 2022 till 2023)
