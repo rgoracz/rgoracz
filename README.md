@@ -1,6 +1,6 @@
 > [!TIP]
-> I am available to hire!
-> You may find my CV [here](https://rgoracz.s3.eu-west-1.amazonaws.com/CV+-+Roland+Goracz.pdf).
+> **I am available to hire!
+> You may find my CV [here](https://rgoracz.s3.eu-west-1.amazonaws.com/CV+-+Roland+Goracz.pdf).**
 
 ## Hey there! ✌️
 
