@@ -4,7 +4,7 @@
 
 ## Hey there! ✌️
 
-### 🧙 I'm Roland, a Full-Stack Software Developer with DevOps knowledge with around 4 Years of (professional) Experience.
+### 🧙 I'm Roland, a Full-Stack Software Developer with DevOps knowledge with 4 Years of (professional) Experience.
 
 ### 🧠 I have experience with:
 
