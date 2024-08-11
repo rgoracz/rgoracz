@@ -34,6 +34,7 @@
 - 📙 [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) (read in 2023)
 - 📘 [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software 2nd Edition](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X) (read from 2023 till 2024)
 - 📔 [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) (read in 2024)
+- 📓 [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451) (in progress)
 
 ### 😎 In my free time, I love to:
 - 👨‍💻 Work on my hobby projects
