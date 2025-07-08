@@ -26,7 +26,7 @@
 
 ### 📜 I hold the following certifications:
 
-- [**PLANNED** - July 2025] [Certified Kubernetes Administrator - CKA](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
+- [Certified Kubernetes Administrator - CKA](https://www.credly.com/badges/d83a40a1-b97f-4d58-baea-78df8d8771c5/public_url) (obtained in 2025)
 
 ### 📚 I possess the wisdom and knowledge of the following books:
 - 📗 [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) (read from 2022 till 2023) **(favorite)**
