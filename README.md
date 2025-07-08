@@ -22,7 +22,7 @@
 
 📊 **GitOps / DevOps:**
 
-- **Git** / GitHub Actons / Docker / Kubernetes / OpenShift
+- **Git** / GitHub Actons / Docker / **Kubernetes** / OpenShift
 
 ### 📜 I hold the following certifications:
 
